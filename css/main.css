@@ -27,6 +27,13 @@ body {
 .portfolio-item {
     margin-bottom: 30px;
     border-radius: 50%;
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+.img:hover{
+    opacity: 0.8;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+
 }
 
 .tab-pane {
