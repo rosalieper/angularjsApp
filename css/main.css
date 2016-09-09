@@ -243,7 +243,7 @@ footer {
     position: relative;
     //background-color: #c6e2ff;
     border: none;
-    font-size: 28px;
+    font-size: 20px;
     color: #FFFFFF;
     padding: 40px;
     text-align: center;
@@ -256,6 +256,7 @@ footer {
 
 .button:after {
     content: "abeboh";
+    font-size: 10px;
     background: #ffff66;
     display: block;
     position: absolute;
