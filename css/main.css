@@ -26,6 +26,7 @@ body {
 .img-customer,
 .portfolio-item {
     margin-bottom: 30px;
+    border-radius: 50%;
 }
 
 .tab-pane {
@@ -243,7 +244,7 @@ footer {
     position: relative;
     //background-color: #c6e2ff;
     border: none;
-    font-size: 20px;
+    font-size: 17px;
     color: #FFFFFF;
     padding: 20px;
     text-align: center;
@@ -257,12 +258,12 @@ footer {
 .button:after {
     content: "abeboh";
     font-size: 10px;
-    background: #ffff66;
+    background: #fff68f;
     display: block;
     position: absolute;
     padding-top: 300%;
     padding-left: 350%;
-    margin-left: -20px!important;
+    margin-left: -21px!important;
     margin-top: -120%;
     opacity: 0;
     transition: all 0.8s
