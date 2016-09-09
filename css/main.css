@@ -256,7 +256,7 @@ footer {
 }
 
 .button:after {
-    content: "";
+    content: "abeboh";
     background: #ffff66;
     display: block;
     position: absolute;
