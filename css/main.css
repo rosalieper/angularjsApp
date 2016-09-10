@@ -36,6 +36,12 @@ img:hover{
 
 }
 
+.img-home-portfolio{
+    -webkit-filter: grayscale(100%); /* Chrome, Safari, Opera */
+    filter: grayscale(100%);
+
+}
+
 .tab-pane {
     margin-top: 15px;
 }
