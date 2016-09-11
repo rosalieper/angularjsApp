@@ -16,7 +16,7 @@ Primary style
 body {
   font-size: 100%;
   font-family: "Open Sans", sans-serif;
-  color: #4e5359;
+  color: #D6CC5D;
   background-color: #f3f3f5;
 }
 body::after {
@@ -47,7 +47,7 @@ body.cd-overlay::after {
 }
 
 a {
-  color: #d6cc5d;
+  color: #D6CC5D;
   text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ header {
   height: 180px;
   line-height: 180px;
   text-align: center;
-  background-color: #d6cc5d;
+  background-color: #D6CC5D;
 }
 header h1 {
   color: #ffffff;
