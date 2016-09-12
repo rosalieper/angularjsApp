@@ -18,6 +18,7 @@ body {
   font-family: "Open Sans", sans-serif;
   color: #D6CC5D;
   background-color: #f3f3f5;
+  background-image: url("images/fag.png"); 
 }
 body::after {
   /* overlay layer visible on small devices when the right panel slides in */
@@ -61,7 +62,7 @@ header {
   height: 180px;
   line-height: 180px;
   text-align: center;
-  background-color: #ffffff url("images/fag.png");
+  background-color: #ffffff 
 }
 header h1 {
   color: #D6CC5D;
