@@ -61,10 +61,10 @@ header {
   height: 180px;
   line-height: 180px;
   text-align: center;
-  background-color: #D6CC5D;
+  background-color: #ffffff url("images/fag.png");
 }
 header h1 {
-  color: #ffffff;
+  color: #D6CC5D;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 20px;
