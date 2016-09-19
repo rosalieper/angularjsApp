@@ -93,7 +93,7 @@
                             <li>AngularJs </li>
                             <li>Jquery</li> 
                             <li>The Most Secured and Complex Yii2 </li> <li> The Most Widely Used Laravel5 </li> <li>etc</li>
-                            To read more click below......<br>
+                            To read more click below......<br><br>
                         </p>
                         <a href="#abebohtech" class=" btn btn-warning button">Learn More</a>
                     </div>
@@ -114,9 +114,9 @@
 
                         <em style="color:#FF9900">Secondly, </em>ABEBOH is also a hardware development Company.<br>
                             We develop hardware projects such as <br>
-                            >>Automated systems , 
-                            <br>>>Embedded applications,<br> 
-                            >>Applications for the Internet of Things <br>
+                            <li>Automated systems </li>
+                            <li>Embedded applications</li> 
+                            <li>Applications for the Internet of Things </li>
                              So we  bring every aspect of life into Computing and the digital world.<br>
                              To Read More click Below.....<br>
 
@@ -133,9 +133,9 @@
                         </div>
                        <div class="panel-body">
                         <p>
-                            ABEBOH is a technology Company located in Buea also known by its
-                             as the Silicon Mountain.<br>
-                             ABEBOH is Located at Mile 18. Just in the Up story building behind the mile 18 petrol station<br>
+                            ABEBOH is a technology Company located in Buea also known by  its technology acroymn
+                              Silicon.<br>
+                             ABEBOH is Located at Mile 18 just in the Up story building behind the mile 18 petrol station<br>
                              It is located along the Douala-Buea-Kumba Highway just after Mile 17 Buea before Muyua<br>
                              ABEBOH is a kom word from the grassfields of Bamenda which literally means <br>
                              <em style="color:#FF9900">"IT IS GOD THAT SAID IT"<br></em>
@@ -145,7 +145,7 @@
                               <em style="color:#FF9900"> "Technology should be Available and Affordable to everyone"<br></em>
                               At ABEBOH, we Trust and belief in our strong Engineering, Design, Management teams etc.<br>
                               Our Customers is the our Priority<br> 
-                              To read More Click Below<br>
+                              To read More Click Below......<br>
                         </p>
                   
                         <a href="#" class="btn btn-warning button">Learn More</a>
@@ -280,7 +280,7 @@
                     <tbody>
                     <tr>
                         <td>NJUNGLE NGES BRIAN</td>
-                        <td>THE FOUNDER AND CEO OF ABEBOH</td>
+                        <td>THE FOUNDER, CEO OF ABEBOH AND PROJECT MANAGAGER AT ABEBOH</td>
                     </tr>
                     <tr>
                         <td>MONDJO PERSIDE ROSALIE</td>
@@ -327,10 +327,6 @@
                         <td>ADVISORY COUNCIL MEMBER</td>
                     </tr>
                      <tr>
-                        <td>MR FLAVIS AGBONGWA</td>
-                        <td>ADVISORY COUNCIL MEMBER</td>
-                    </tr>
-                     <tr>
                         <td>MADAM NJUNG MARY</td>
                         <td>ADVISORY COUNCIL MEMBER</td>
                     </tr>
@@ -358,7 +354,7 @@
 
     <div class="row well">
         <div class="col-lg-8 col-md-8">
-            <h4>'ABEBOH' is a tech company in Buea-Cameroon, composed of a strong team, Good at software and hardware developments!</h4>
+            <h4>'ABEBOH' is a tech company in Buea-Cameroon, composed of a strong team, Good at software and hardware development!</h4>
             <p>For more information check the FAQ page or contact us, visit ABEBOH!</p>
         </div>
         <div class="col-lg-4 col-md-4">
