@@ -15,6 +15,7 @@ app.config(['$routeProvider', function ($routeProvider) {
     .when("/", {templateUrl: "partials/home.html", controller: "PageCtrl"})
     // Pages
     .when("/about", {templateUrl: "partials/about.html", controller: "PageCtrl"})
+     .when("/technologies", {templateUrl: "partials/technologies.html", controller: "PageCtrl"})
     .when("/faq", {templateUrl: "FAQ/faq.html", controller: "PageCtrl"})
     .when("/pricing", {templateUrl: "partials/pricing.html", controller: "PageCtrl"})
     .when("/services", {templateUrl: "partials/services.html", controller: "PageCtrl"})
@@ -50,4 +51,7 @@ app.controller('PageCtrl', function (/* $scope, $location, $http */) {
     selector: "a[data-toggle=tooltip]"
   })
 });
+<<<<<<< HEAD
+=======
 
+>>>>>>> 60b5bce617688ddfa7acb9d8617cac79ab2a2d20
